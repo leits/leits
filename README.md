@@ -1,6 +1,6 @@
 Hi!
 
-I'm leits, an engineering manager with solid background as python engineer. Outside of my work, I'm creating [MeetingBar](https://github.com/leits/MeetingBar) and [OhMyCode](https://github.com/leits/OhMyCode) (WIP).
+I'm leits, an engineering manager with solid background as python engineer. Outside of my work, I'm creating [MeetingBar](https://github.com/leits/MeetingBar) and [OhMyCode](ohhmycode.heroku.com) (WIP).
 
 I build stuff in public and make it open-source. Along the way, I learn a lot of new things, which I share on blog and twitter.
 

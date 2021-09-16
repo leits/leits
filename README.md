@@ -1,8 +1,10 @@
 Hi!
 
-I'm leits, an engineering manager with solid background as python engineer. 
+I'm leits, an engineering manager with python background. 
 
-Outside of my work, I'm creating [MeetingBar](https://github.com/leits/MeetingBar) and [ohmycode](https://ohmycode.cc) (join the beta!).
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leits)](https://git.io/streak-stats)
 
-twitter: [@leits_dev](https://twitter.com/leits_dev)
+In free time, I'm creating [MeetingBar](https://github.com/leits/MeetingBar) and [ohmycode](https://ohmycode.cc) (join the beta!).
+
+Writing tweets about my work and side-projects: [@leits_dev](https://twitter.com/leits_dev)
 

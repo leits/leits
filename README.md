@@ -6,6 +6,10 @@ I'm leits, an engineering manager with python background.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leits)](https://git.io/streak-stats)
 
-In free time, I'm creating [MeetingBar](https://github.com/leits/MeetingBar), [ohmycode](https://ohmycode.cc), and [leits brew 🇺🇦](https://brew.leits.me).
+In free time, I'm creating [MeetingBar](https://github.com/leits/MeetingBar).
 
-Writing tweets about my work and side-projects: [@leits_dev](https://twitter.com/leits_dev)
+
+
+Writing about making coffee at home in Ukrainian: [Фільтр, будь ласка 🇺🇦](https://t.me/filterpls).
+
+Also collected all Ukrainian coffee roasters in one place: [filterpls.com](https://filterpls.com)

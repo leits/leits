@@ -13,3 +13,9 @@ In free time, I'm creating [MeetingBar](https://github.com/leits/MeetingBar).
 Writing about making coffee at home in Ukrainian: [Фільтр, будь ласка 🇺🇦](https://t.me/filterpls).
 
 Also collected all Ukrainian coffee roasters in one place: [filterpls.com](https://filterpls.com)
+
+
+-----
+This page's statistics:
+
+[![Andrii Leitsius profile views](https://u8views.com/api/v1/github/profiles/12017826/views/day-week-month-total-count.svg)](https://u8views.com/github/leits)
